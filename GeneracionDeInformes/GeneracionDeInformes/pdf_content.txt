@@ -1,0 +1,58 @@
+Pr´ actica RA5: Generaci´ on de Informes Profesionales con
+RDLC
+M´ odulo M07 – Desenvolupament d’interf´ ıcies
+Objetivos
+Comprender la diferencia entre mostrar datos y generar un informe profesional.
+Conectar una aplicaci´ on WinForms a una base de datos SQL.
+Utilizar DataSet como modelo intermedio entre la base de datos y el informe.
+Dise˜ nar informes con RDLC incluyendo agrupaciones y filtros.
+Exportar informes en distintos formatos (PDF y Excel).
+Enunciado
+Una empresa desea generar informes profesionales de su cat´ alogo de productos para enviarlos
+a sus comerciales.
+Se deber´ a desarrollar una aplicaci´ on Windows Forms conectada a una base de datos SQL
+que permita generar informes mediante RDLC.
+Base de datos
+Crear una base de datos con la siguiente tabla:
+CREATE TABLE Productos (
+Id INT PRIMARY KEY IDENTITY,
+Nombre NVARCHAR(50),
+Precio DECIMAL(10,2),
+Categoria NVARCHAR(50),
+Stock INT
+);
+Insertar al menos 15 productos distribuidos en un m´ ınimo de 3 categor´ ıas distintas.
+Desarrollo del proyecto
+El proyecto deber´ a cumplir los siguientes apartados:
+1. Conexi´ on y DataSet
+Conectar la aplicaci´ on a la base de datos.
+1
+
+===PAGE===
+
+Crear un DataSet que recupere los campos:
+•Nombre
+•Precio
+•Categoria
+•Stock
+2. Informe b´ asicoCrear un informe RDLC que muestre la lista completa de productos con
+los campos anteriores.
+Formatear el precio como moneda.
+Dise˜ nar encabezados claros y profesionales.
+3. Informe con agrupaci´ onModificar el informe para que:
+Agrupe los productos porCategoria.
+Muestre un subtotal del precio por cada grupo.
+4. Informe con filtro (par´ ametro)A˜ nadir un par´ ametro que permita:
+Seleccionar una categor´ ıa concreta.
+Mostrar ´ unicamente los productos pertenecientes a dicha categor´ ıa.
+5. Exportaci´ onConfigurar elReportViewerpara permitir:
+Exportaci´ on a PDF.
+Exportaci´ on a Excel.
+Criterios de evaluaci´ on
+Conexi´ on a base de datos y DataSet correctos:2 ptos.
+Informe b´ asico funcionando correctamente:2,5 ptos.
+Agrupaci´ on con subtotales correcta:2,5 ptos.
+Filtro mediante par´ ametro funcionando:1,5 ptos.
+Exportaci´ on correcta a PDF y Excel:1 ptos.
+Documentaci´ on clara y presentaci´ on:0,5 ptos.
+2

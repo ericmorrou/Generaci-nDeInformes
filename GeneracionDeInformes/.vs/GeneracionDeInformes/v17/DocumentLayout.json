@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ericmorrou\\OneDrive - Centre d\u0027Estudis Monlau\\Clase\\Interficies\\RA2\\Pr6 - relojComponentes\\GeneracionDeInformes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B33CB441-8BA3-4AA8-8D36-59D0CEFB20DB}|GeneracionDeInformes\\GeneracionDeInformes.csproj|c:\\users\\ericmorrou\\onedrive - centre d\u0027estudis monlau\\clase\\interficies\\ra2\\pr6 - relojcomponentes\\generaciondeinformes\\generaciondeinformes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B33CB441-8BA3-4AA8-8D36-59D0CEFB20DB}|GeneracionDeInformes\\GeneracionDeInformes.csproj|solutionrelative:generaciondeinformes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ericmorrou\\OneDrive - Centre d\u0027Estudis Monlau\\Clase\\Interficies\\RA2\\Pr6 - relojComponentes\\GeneracionDeInformes\\GeneracionDeInformes\\Form1.cs",
+              "RelativeDocumentMoniker": "GeneracionDeInformes\\Form1.cs",
+              "ToolTip": "C:\\Users\\ericmorrou\\OneDrive - Centre d\u0027Estudis Monlau\\Clase\\Interficies\\RA2\\Pr6 - relojComponentes\\GeneracionDeInformes\\GeneracionDeInformes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GeneracionDeInformes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T14:44:51.922Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
